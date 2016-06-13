@@ -1,0 +1,9 @@
+Building multiwalletcoin
+
+See doc/readme-qt.rst for instructions on building multiwalletcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of multiwalletcoin.
+
+See doc/build-*.txt for instructions on building multiwalletcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of multiwalletcoin.
